@@ -20,10 +20,10 @@
 * Crowdfunding_ETL\crowdfunding_db_schema.sql
 
 ### **Output Files:**
-* git\Crowdfunding_ETL\output_data\campaign.csv  
-* git\Crowdfunding_ETL\output_data\category.csv  
-* git\Crowdfunding_ETL\output_data\contacts.csv   
-* git\Crowdfunding_ETL\output_data\subcategory.csv  
+* Crowdfunding_ETL\output_data\campaign.csv  
+* Crowdfunding_ETL\output_data\category.csv   
+* Crowdfunding_ETL\output_data\subcategory.csv  
+* Crowdfunding_ETL\output_data\contacts.csv  
 
 ### **For using regex on dataframes things got a little messy so we had to research quite a bit:**
 * https://sparkbyexamples.com/pandas/pandas-apply-with-lambda-examples/
