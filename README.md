@@ -5,6 +5,9 @@
 * Mason Godlove
 * Steve Bennett
 
+### **ERD For Database:**
+** https://app.quickdatabasediagrams.com/#/d/L1QEKH
+
 ### **Input Files:**  
 **Primary Notebook**
 * Crowdfunding_ETL\ETL_Mini_Project_SBennett_COsieczonek_MGodlove_GFrancione.ipynb
