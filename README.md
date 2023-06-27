@@ -14,13 +14,15 @@
 
 ### **Source Input Files:**
 * Crowdfunding_ETL\Resources\contacts.xlsx
-* Crowdfunding_ETL\Resources\crowdfunding.xlsx  
+* Crowdfunding_ETL\Resources\crowdfunding.xlsx
+
+### **SQL Schema File:**
+* Crowdfunding_ETL\crowdfunding_db_schema.sql
 
 ### **Output Files:**
 * git\Crowdfunding_ETL\output_data\campaign.csv  
 * git\Crowdfunding_ETL\output_data\category.csv  
-* git\Crowdfunding_ETL\output_data\contacts_1st_method.csv  
-* git\Crowdfunding_ETL\output_data\contacts_2nd_method.csv  
+* git\Crowdfunding_ETL\output_data\contacts.csv   
 * git\Crowdfunding_ETL\output_data\subcategory.csv  
 
 ### **For using regex on dataframes things got a little messy so we had to research quite a bit:**
