@@ -98,7 +98,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="CD94:1CCB:87904A:BF8ED8:649A4ED5" data-turbo-transient="true" /><meta name="html-safe-nonce" content="2f5980f8db61c13a366f8e8879ca2f5f8d0d51513ad1ef0dca195e9d79d4f051" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hemJlbm5ldHQvQ3Jvd2RmdW5kaW5nX0VUTC90cmVlL1N0ZXZlX3YyIiwicmVxdWVzdF9pZCI6IkNEOTQ6MUNDQjo4NzkwNEE6QkY4RUQ4OjY0OUE0RUQ1IiwidmlzaXRvcl9pZCI6IjY5NzYxOTUxNDI5NjQxMDA0MTEiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="c0f5bcd5180ff903ea460c8bb92e45865e22a30849bfc8f2a4907ebf50768bf7" data-turbo-transient="true" />
+  <meta name="request-id" content="CDB0:4F8F:7FBB48:B2DE3B:649A503C" data-turbo-transient="true" /><meta name="html-safe-nonce" content="2f5980f8db61c13a366f8e8879ca2f5f8d0d51513ad1ef0dca195e9d79d4f051" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hemJlbm5ldHQvQ3Jvd2RmdW5kaW5nX0VUTC90cmVlL1N0ZXZlX3YyIiwicmVxdWVzdF9pZCI6IkNEQjA6NEY4Rjo3RkJCNDg6QjJERTNCOjY0OUE1MDNDIiwidmlzaXRvcl9pZCI6IjY5NzYxOTUxNDI5NjQxMDA0MTEiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="f49bfe495e4098c2cb8f047f02bd68795de4c4e4a184ff8d674171514001c9e7" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:656473377" data-turbo-transient>
@@ -142,7 +142,7 @@
       <meta property="og:image" content="https://opengraph.githubassets.com/df105453bb2f9fd1debd1a80348ed117ef7531b395f363c2fae6a7c47bca71c1/azbennett/Crowdfunding_ETL" /><meta property="og:image:alt" content="Contribute to azbennett/Crowdfunding_ETL development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Crowdfunding_ETL/crowdfunding_db_schema.sql at Steve_v2 · azbennett/Crowdfunding_ETL" /><meta property="og:url" content="https://github.com/azbennett/Crowdfunding_ETL" /><meta property="og:description" content="Contribute to azbennett/Crowdfunding_ETL development by creating an account on GitHub." />
       
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/126929265/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjY5MjkyNjUsInMiOjExNDc0NDYxNDEsImMiOjM2OTM5MDA0NzgsInQiOjE2ODc4MzQzMzF9--792d482a808a46ea6d1ae81e6eea0b9c24f4803ab9da4ab572f61b6b0de754eb" data-refresh-url="/_alive" data-session-id="f40ab6e18c90fe761c33235ad44a516ff4c8bccae34609d52f3a648237429760">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/126929265/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjY5MjkyNjUsInMiOjExNDc0NDYxNDEsImMiOjM3NzE4NDc1OTcsInQiOjE2ODc4MzQ2ODd9--a89bcfe76fddbb18561e083781bcd629c8fdc177f0201234ad2464cdb442188e" data-refresh-url="/_alive" data-session-id="f40ab6e18c90fe761c33235ad44a516ff4c8bccae34609d52f3a648237429760">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -216,17 +216,17 @@
           <deferred-side-panel data-url="/_side-panels/global">
   <include-fragment data-target="deferred-side-panel.fragment">
       
-  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-192b902b-8cbc-443e-8a3d-688ee964d0bd" id="dialog-show-dialog-192b902b-8cbc-443e-8a3d-688ee964d0bd" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
+  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-2b3756f7-ab22-44d2-915d-a292c246675f" id="dialog-show-dialog-2b3756f7-ab22-44d2-915d-a292c246675f" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
     <path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path>
 </svg>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-left" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-192b902b-8cbc-443e-8a3d-688ee964d0bd" aria-modal="true" aria-disabled="true" aria-describedby="dialog-192b902b-8cbc-443e-8a3d-688ee964d0bd-title dialog-192b902b-8cbc-443e-8a3d-688ee964d0bd-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-2b3756f7-ab22-44d2-915d-a292c246675f" aria-modal="true" aria-disabled="true" aria-describedby="dialog-2b3756f7-ab22-44d2-915d-a292c246675f-title dialog-2b3756f7-ab22-44d2-915d-a292c246675f-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-192b902b-8cbc-443e-8a3d-688ee964d0bd-title">
+      <h1 class="Overlay-title sr-only" id="dialog-2b3756f7-ab22-44d2-915d-a292c246675f-title">
         Global navigation
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -237,7 +237,7 @@
 </div></div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-192b902b-8cbc-443e-8a3d-688ee964d0bd" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-2b3756f7-ab22-44d2-915d-a292c246675f" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -251,7 +251,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="834a9d1e9ce5b301a2abf78b533d85410fae8e36ba65fc259496068f2691e70d" id="item-0deddf70-939d-4b30-b305-e314924f7844" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="834a9d1e9ce5b301a2abf78b533d85410fae8e36ba65fc259496068f2691e70d" id="item-9659bb79-de1d-409d-96cd-63aa69e9f7a8" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-home">
     <path d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
@@ -269,7 +269,7 @@
           
 <li item_id="personal_info" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="c21b77ed898a89b7cbc8ef0d672640b8bf37f96b9b19f35dfbb138d84d346931" id="item-5c900613-3894-4536-a9aa-ac79c78537c1" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="c21b77ed898a89b7cbc8ef0d672640b8bf37f96b9b19f35dfbb138d84d346931" id="item-922150c4-37c8-4e48-b949-00efa51b7356" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -287,7 +287,7 @@
           
 <li item_id="password" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="78846d4fdfff63ae7cde538469163550a75b9bb8a3cba2505b743ba023c54075" id="item-f512bcae-f396-442a-995c-791703a39be2" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="78846d4fdfff63ae7cde538469163550a75b9bb8a3cba2505b743ba023c54075" id="item-9d90b2e7-3e66-44c8-b3fe-3e2aa21702da" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -305,7 +305,7 @@
           
 <li item_id="billing" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="f24e190c37f0f55ebcfb03775ca69c2609bdfecb547aaa6d034fc02a78b25549" id="item-2b60de5d-068b-4146-97c0-40f461e9e618" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="f24e190c37f0f55ebcfb03775ca69c2609bdfecb547aaa6d034fc02a78b25549" id="item-d3dee6ee-eca7-4250-919f-911c1b6abf20" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -339,7 +339,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="2f1669785732cf702c36d353a9b312c7448c55e180e70b4fc7542a16ca6e4aaa" id="item-7213e873-0712-4d23-93a7-4c3ee3a2e1fd" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="2f1669785732cf702c36d353a9b312c7448c55e180e70b4fc7542a16ca6e4aaa" id="item-63d94418-d752-48af-a5e6-df56389cb0a7" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-telescope">
     <path d="M14.184 1.143v-.001l1.422 2.464a1.75 1.75 0 0 1-.757 2.451L3.104 11.713a1.75 1.75 0 0 1-2.275-.702l-.447-.775a1.75 1.75 0 0 1 .53-2.32L11.682.573a1.748 1.748 0 0 1 2.502.57Zm-4.709 9.32h-.001l2.644 3.863a.75.75 0 1 1-1.238.848l-1.881-2.75v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.049-2.992a.746.746 0 0 1 .293-.253l1.809-.87a.749.749 0 0 1 .944.252ZM9.436 3.92h-.001l-4.97 3.39.942 1.63 5.42-2.61Zm3.091-2.108h.001l-1.85 1.26 1.505 2.605 2.016-.97a.247.247 0 0 0 .13-.151.247.247 0 0 0-.022-.199l-1.422-2.464a.253.253 0 0 0-.161-.119.254.254 0 0 0-.197.038ZM1.756 9.157a.25.25 0 0 0-.075.33l.447.775a.25.25 0 0 0 .325.1l1.598-.769-.83-1.436-1.465 1Z"></path>
@@ -357,7 +357,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="62c99e0c6b29b6c95371541a4cc6d7e7a0d6c23206a489a6fe86ab23941b844c" id="item-cf5b907e-2be7-4ec7-b6c6-af2f9f97099c" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql&quot;,&quot;user_id&quot;:126929265}}" hydro-click-hmac="62c99e0c6b29b6c95371541a4cc6d7e7a0d6c23206a489a6fe86ab23941b844c" id="item-13a4a633-a2fd-4ac6-8e25-35db2d874f2b" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
     <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
@@ -375,7 +375,7 @@
           
 <li item_id="feedback" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-3ae73733-d0ee-48df-96f6-6a9f08286504" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-c30ec2de-0f65-48da-9396-193534526e1d" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -584,7 +584,7 @@
 </svg>
 </template>
 
-<qbsearch-input class="search-input" data-scope="repo:azbennett/Crowdfunding_ETL" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Evp1HATK293owis-Xj0eGcJyVsZugsHRZkkRX6FN4VkCAFgMyH_YJW62YRB3jDDttO2jkltJkUKyO2RSUaOoOQ" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="azbennett/Crowdfunding_ETL" data-current-org="" data-current-owner="azbennett">
+<qbsearch-input class="search-input" data-scope="repo:azbennett/Crowdfunding_ETL" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="WJzzADS-FJLn2uETMrBwhOVYGdh_f_LTLhGvdf6n7klIZt4Q-AsXamGuqz0bAV5wk8fsjEq0okD6Y9p4DkmnKQ" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="azbennett/Crowdfunding_ETL" data-current-org="" data-current-owner="azbennett">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center height-auto color-bg-transparent border-0 color-fg-subtle mx-0"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -633,7 +633,7 @@
 </svg>
       </button>
 
-      <tool-tip id="tooltip-1656b555-2294-4b2e-b661-7cfe7f7da87b" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
+      <tool-tip id="tooltip-1cc2c129-59b8-4750-a602-a169a7882652" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
   </div>
 </div>
 
@@ -813,7 +813,7 @@
     </div>
   </div>
 </div>
-      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MFxbI2fZNmgTw--OiR7gbKdPMrf4DkjF2v760wAhyTtHeJXbAAHpH7HSJ9_j2ipq4a6qhcwypR4gKmLvuyVrbg" />
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Zy3hu1-NBgGIg1nCSd5F5b7LgZnql_jISQFI51tElWsQCS9DOFXZdiqSkZMjGo_j-CoZq96rFROz1dDb4EA3Pg" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -848,7 +848,7 @@
       <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lnPe5dwoIgndpCX6h5Tqm5qBVuvGigwAEQdNF4MaKgQD1kJwWpwpvV1EFstW4VdaxonKr5TSiCcFSp-LzQZEhA" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yvwzTtUnMrvcx6bWvZDK4tz2Kn5L-Jp8ZEi_gQyT78FfWa_bU5M5D1wnleds5XcjgP62OhmgHltwBW0dQo-BQQ" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -866,7 +866,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="cxgwoEZX2BVNfjFDB-zH0lafwd-jm9eFyfiUBKWnK9YPLpyZOPJkqG_4Woo5kvHmzDKqaCV67z6QELxarPIpPw" data-csrf="true" />
+              <input type="hidden" value="TftUaXiBJa1WLnn9wACXTyypLleONXibio6TTZ1S5Z4xzfhQBiSZEHSoEjT-fqF7tgRF4AjUQCDTZrsTlAfndw" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -902,7 +902,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" value="BoYS7MxclQ5xhO3ZR4IYvOevbb2hRwsOrlw4gWTJ79LNnjr6zXUyVYoqjxw5StWdi4-gp-c2rnmRXeV-PtFS2w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="2AY7OzAK6C0N_C8kHCaCM9Bm7wh4OQxB4Uwks0vegNETHhMtMSNPdvZSTeFi7k8SvEYiEj5IqTbeTflMEcY92A" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
           </div>
 
@@ -919,7 +919,7 @@
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg></span>
     </span>
-</button>  <tool-tip id="tooltip-bd61fb85-4489-4e02-8daf-061b95b78f6c" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
+</button>  <tool-tip id="tooltip-8b0708d8-859a-420d-9fab-9533820677fd" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
 </div>
 
 <anchored-position id="global-create-menu-overlay" anchor="global-create-menu-button" align="end" side="outside-bottom" anchor-offset="normal" popover="auto" aria-label="Menu" data-view-component="true" class="Overlay Overlay--size-auto">
@@ -929,7 +929,7 @@
   <ul aria-labelledby="global-create-menu-button" id="global-create-menu-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new" tabindex="-1" id="item-4729d97d-37b8-4527-9a3d-368040973b67" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new" tabindex="-1" id="item-de03bc1f-8644-42a2-a887-387f3a004a25" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -945,7 +945,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;import repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new/import" tabindex="-1" id="item-a20a379d-2785-4121-875b-8ded7c3c1d4c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new/import" tabindex="-1" id="item-d6e27788-848f-4661-ae8f-981d4be503ca" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-push">
     <path d="M1 2.5A2.5 2.5 0 0 1 3.5 0h8.75a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0V1.5h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 3.5 9h3.25a.75.75 0 0 1 0 1.5H3.5a1 1 0 0 0 0 2h5.75a.75.75 0 0 1 0 1.5H3.5A2.5 2.5 0 0 1 1 11.5Zm13.23 7.79h-.001l-1.224-1.224v6.184a.75.75 0 0 1-1.5 0V9.066L10.28 10.29a.75.75 0 0 1-1.06-1.061l2.505-2.504a.75.75 0 0 1 1.06 0L15.29 9.23a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018Z"></path>
@@ -962,7 +962,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new codespace&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/codespaces/new" tabindex="-1" id="item-ca5181e2-a4fe-4e63-bc20-b2202c0f77a3" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/codespaces/new" tabindex="-1" id="item-9a287e31-7dda-40f8-b49c-049ec4f779b3" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -978,7 +978,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new gist&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="https://gist.github.com/" tabindex="-1" id="item-e6786c93-9abb-4eb0-bbef-83ed3c52dfce" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="https://gist.github.com/" tabindex="-1" id="item-2967df88-5763-4de3-b4bd-8c5933b25f53" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -995,7 +995,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new organization&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/account/organizations/new" tabindex="-1" id="item-bfc4b12f-2b2b-4a9b-ae3c-d12e49dcbe6b" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/account/organizations/new" tabindex="-1" id="item-688cfbdd-b961-44fb-b188-14d671b62086" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization">
     <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
@@ -1016,23 +1016,23 @@
 </action-menu>
 
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/issues" id="icon-button-b045a4e8-7a27-4a56-a7c7-d7871df332a8" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
+  <a href="/issues" id="icon-button-4e617817-e416-49a7-8fdf-290f2f75bb6a" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-40f7c68a-030c-477b-be0a-783f12473abf" for="icon-button-b045a4e8-7a27-4a56-a7c7-d7871df332a8" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
+</a>  <tool-tip id="tooltip-dbe8bab5-edf2-4a63-819a-2698b610893f" for="icon-button-4e617817-e416-49a7-8fdf-290f2f75bb6a" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
 </div>
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/pulls" id="icon-button-a0e23832-32f7-42b9-9d35-826d34a7aa74" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
+  <a href="/pulls" id="icon-button-56f613ce-1544-4707-a0a7-1371f91c5519" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-3b56c690-eb77-43d1-a9b9-05e53b49da31" for="icon-button-a0e23832-32f7-42b9-9d35-826d34a7aa74" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
+</a>  <tool-tip id="tooltip-468cbecc-f373-44a2-aae5-c635c5a4a2bc" for="icon-button-56f613ce-1544-4707-a0a7-1371f91c5519" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
 </div>
         </div>
 
         <div class="mr-0">
           
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI2OTI5MjY1IiwidCI6MTY4NzgzNDMzMX0=--69901b596202d66aa1b4f0a7cb7ebdba0a0844c8b4a42a4cec0c6776365b7c24" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI2OTI5MjY1IiwidCI6MTY4NzgzNDY4N30=--f5a5f2479155a5690b6816bb36b3b4b5542f8504c64fbe341c66e4d4bbe90f51" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="AppHeader-button"
 
@@ -1055,7 +1055,7 @@
 </svg>
   </a>
 
-    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-d431d35d-1163-489a-8062-df16888c0709" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
+    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-c4350cd5-775b-4539-8688-1421a4d813a5" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
 </notification-indicator>
         </div>
 
@@ -1065,17 +1065,17 @@
           <deferred-side-panel data-url="/_side-panels/user?memex_enabled=true&amp;repository=Crowdfunding_ETL&amp;user=CJO100293&amp;user_can_create_organizations=true&amp;user_id=126929265">
   <include-fragment data-target="deferred-side-panel.fragment">
       <user-drawer-side-panel>
-      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-efb18c39-13bb-4506-b959-b8fa800b6fcf" id="dialog-show-dialog-efb18c39-13bb-4506-b959-b8fa800b6fcf" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
+      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-06519889-73bf-41e7-9726-ae399e70fb48" id="dialog-show-dialog-06519889-73bf-41e7-9726-ae399e70fb48" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
       <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/126929265?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle" /></span>
     </span>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-right" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-efb18c39-13bb-4506-b959-b8fa800b6fcf" aria-modal="true" aria-disabled="true" aria-describedby="dialog-efb18c39-13bb-4506-b959-b8fa800b6fcf-title dialog-efb18c39-13bb-4506-b959-b8fa800b6fcf-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-06519889-73bf-41e7-9726-ae399e70fb48" aria-modal="true" aria-disabled="true" aria-describedby="dialog-06519889-73bf-41e7-9726-ae399e70fb48-title dialog-06519889-73bf-41e7-9726-ae399e70fb48-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-efb18c39-13bb-4506-b959-b8fa800b6fcf-title">
+      <h1 class="Overlay-title sr-only" id="dialog-06519889-73bf-41e7-9726-ae399e70fb48-title">
         Account menu
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -1091,7 +1091,7 @@
 </div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-efb18c39-13bb-4506-b959-b8fa800b6fcf" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-06519889-73bf-41e7-9726-ae399e70fb48" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -1105,7 +1105,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-8ab450ca-1b25-4127-a3e4-4b01214e8588" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-87df7474-0a5b-467d-bc6e-22e6b978bf38" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1132,7 +1132,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-8c005018-29bc-4d38-9d07-206ea842742c" href="https://github.com/CJO100293" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-2c339609-1784-4585-9895-e20fefb88f3f" href="https://github.com/CJO100293" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-person">
     <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1152,7 +1152,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-c4c0acb7-5201-4042-9a5e-f4be334b859a" href="/CJO100293?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-68c9acf4-9bcb-47f6-980b-10823a150a9d" href="/CJO100293?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -1170,7 +1170,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-1e02253e-e2d2-4e36-9497-4af126b9c22d" href="/CJO100293?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-faaef238-d366-4811-bc79-628c6614a0ae" href="/CJO100293?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
     <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
@@ -1188,7 +1188,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-b036109c-edc9-47a7-a19f-1f973522b38f" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-d2c834c0-4da0-43df-a199-30af2b64d234" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -1206,7 +1206,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-07724492-f901-42fb-9754-d46a09d85f3c" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-1a6793dd-4e5d-4f4f-b2ee-5a8e277a5c1a" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1231,7 +1231,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-40482388-bd72-41ca-ac76-473dbc2ffa51" href="/CJO100293?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-3f60e23b-7ac2-4efe-a83d-29fd441eb0a9" href="/CJO100293?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
@@ -1249,7 +1249,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-fd8ba447-8aee-46e9-a422-9dece1475933" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-e260ddfe-5be4-4167-bf94-cdb1ee08b017" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart">
     <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
@@ -1267,7 +1267,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-87f7608a-526f-4ccb-93dc-d17171ddadbf" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-dd67a6bd-c976-4817-a10d-4bb35eefab40" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-square">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Zm7.47 3.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L10.69 8 9.22 6.53a.75.75 0 0 1 0-1.06ZM6.78 6.53 5.31 8l1.47 1.47a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1287,7 +1287,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-948a3fc2-7697-4715-accd-c36ad359379b" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-301571bf-f4b3-45ef-907d-819107f002b9" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1312,7 +1312,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-16574972-01e2-4aec-8e7f-e545450cd407" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-bbd190b2-29f4-45a0-9fb0-35fb135670ec" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1337,7 +1337,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-012c1c49-d667-4ea8-acf1-9c43522afcbe" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-e7304d27-00da-4008-8f9a-fdea5dcb1699" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1362,7 +1362,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-41ca4396-d57b-4155-91a7-eeb7c8f8848d" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-29dd2942-e8a1-4d5a-b5e6-0100f96c0456" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear">
     <path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path>
@@ -1382,7 +1382,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-77dbfcde-e814-4cc9-87e9-2ec86ae30a11" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-c0894185-2050-4522-a6b1-549a3c307a62" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
     <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
@@ -1400,7 +1400,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-5c1e5800-83ef-47d4-8eb5-689051a4ad0f" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-fa7a88db-f0d5-4e49-90c9-f3487479bd66" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
     <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
@@ -1420,7 +1420,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-a2381916-55c7-4df0-baf4-2af79ddc2188" href="/logout" data-view-component="true" class="ActionListContent">
+    <a id="item-1065611c-3fdf-478e-8213-19896c48653e" href="/logout" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Sign out
@@ -1650,7 +1650,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI2OTI5MjY1IiwidCI6MTY4NzgzNDMzMX0=--69901b596202d66aa1b4f0a7cb7ebdba0a0844c8b4a42a4cec0c6776365b7c24" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI2OTI5MjY1IiwidCI6MTY4NzgzNDY4N30=--f5a5f2479155a5690b6816bb36b3b4b5542f8504c64fbe341c66e4d4bbe90f51" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -1824,7 +1824,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-864e2f49-224d-42ee-b3e4-bb8073df0f52" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-71514734-5c1b-4267-a1af-51c4c527183f" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -2630,7 +2630,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"Resources","path":"Resources","contentType":"directory"},{"name":"output_data","path":"output_data","contentType":"directory"},{"name":"ETL_Mini_Project_SBennett_COsieczonek_MGodlove_GFrancione.ipynb","path":"ETL_Mini_Project_SBennett_COsieczonek_MGodlove_GFrancione.ipynb","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"crowdfunding_db_schema.sql","path":"crowdfunding_db_schema.sql","contentType":"file"}],"totalCount":5}},"fileTreeProcessingTime":2.860561,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":656473377,"defaultBranch":"main","name":"Crowdfunding_ETL","ownerLogin":"azbennett","currentUserCanPush":true,"isFork":false,"isEmpty":false,"createdAt":"2023-06-20T20:05:54.000-07:00","ownerAvatar":"https://avatars.githubusercontent.com/u/128557327?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"Steve_v2","listCacheKey":"v0:1687831649.938643","canEdit":true,"refType":"branch","currentOid":"47438d53cfda023b6577f84d4bbc058812acab77"},"path":"crowdfunding_db_schema.sql","currentUser":{"id":126929265,"login":"CJO100293","userEmail":"codyjamesosieczonek@outlook.com"},"blob":{"rawBlob":"CREATE TABLE Contacts (\n  contact_id INT PRIMARY KEY,\n  first_name VARCHAR(50),\n  last_name VARCHAR(50),\n  email VARCHAR(255)\n);\n\nCREATE TABLE Category (\n  category_id VARCHAR(10) PRIMARY KEY,\n  category VARCHAR(25)\n);\n\nCREATE TABLE Subcategory (\n  subcategory_id VARCHAR(10) PRIMARY KEY,\n  sub_category VARCHAR(25)\n);\n\nCREATE TABLE Campaign (\n  cf_id INT PRIMARY KEY,\n  contact_id INT,\n  company_name VARCHAR(50),\n  description VARCHAR(255),\n  goal FLOAT,\n  pledged FLOAT,\n  outcome VARCHAR(50),\n  backers_count INT,\n  country VARCHAR(5),\n  currency VARCHAR(5),\n  launched_date DATE,\n  end_date DATE,\n  category_id VARCHAR(10),\n  subcategory_id VARCHAR(10),\n  FOREIGN KEY (contact_id) REFERENCES Contacts(contact_id),\n  FOREIGN KEY (category_id) REFERENCES Category(category_id),\n  FOREIGN KEY (subcategory_id) REFERENCES Subcategory(subcategory_id)\n);","colorizedLines":null,"stylingDirectives":[[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":12,"cssClass":"pl-k"},{"start":13,"end":21,"cssClass":"pl-en"}],[{"start":13,"end":16,"cssClass":"pl-k"},{"start":17,"end":28,"cssClass":"pl-k"}],[{"start":13,"end":20,"cssClass":"pl-k"},{"start":21,"end":23,"cssClass":"pl-c1"}],[{"start":12,"end":19,"cssClass":"pl-k"},{"start":20,"end":22,"cssClass":"pl-c1"}],[{"start":8,"end":15,"cssClass":"pl-k"},{"start":16,"end":19,"cssClass":"pl-c1"}],[],[],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":12,"cssClass":"pl-k"},{"start":13,"end":21,"cssClass":"pl-en"}],[{"start":14,"end":21,"cssClass":"pl-k"},{"start":22,"end":24,"cssClass":"pl-c1"},{"start":26,"end":37,"cssClass":"pl-k"}],[{"start":11,"end":18,"cssClass":"pl-k"},{"start":19,"end":21,"cssClass":"pl-c1"}],[],[],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":12,"cssClass":"pl-k"},{"start":13,"end":24,"cssClass":"pl-en"}],[{"start":17,"end":24,"cssClass":"pl-k"},{"start":25,"end":27,"cssClass":"pl-c1"},{"start":29,"end":40,"cssClass":"pl-k"}],[{"start":15,"end":22,"cssClass":"pl-k"},{"start":23,"end":25,"cssClass":"pl-c1"}],[],[],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":12,"cssClass":"pl-k"},{"start":13,"end":21,"cssClass":"pl-en"}],[{"start":8,"end":11,"cssClass":"pl-k"},{"start":12,"end":23,"cssClass":"pl-k"}],[{"start":13,"end":16,"cssClass":"pl-k"}],[{"start":15,"end":22,"cssClass":"pl-k"},{"start":23,"end":25,"cssClass":"pl-c1"}],[{"start":14,"end":21,"cssClass":"pl-k"},{"start":22,"end":25,"cssClass":"pl-c1"}],[],[],[{"start":10,"end":17,"cssClass":"pl-k"},{"start":18,"end":20,"cssClass":"pl-c1"}],[{"start":16,"end":19,"cssClass":"pl-k"}],[{"start":10,"end":17,"cssClass":"pl-k"},{"start":18,"end":19,"cssClass":"pl-c1"}],[{"start":11,"end":18,"cssClass":"pl-k"},{"start":19,"end":20,"cssClass":"pl-c1"}],[{"start":16,"end":20,"cssClass":"pl-k"}],[{"start":11,"end":15,"cssClass":"pl-k"}],[{"start":14,"end":21,"cssClass":"pl-k"},{"start":22,"end":24,"cssClass":"pl-c1"}],[{"start":17,"end":24,"cssClass":"pl-k"},{"start":25,"end":27,"cssClass":"pl-c1"}],[{"start":2,"end":13,"cssClass":"pl-k"},{"start":27,"end":37,"cssClass":"pl-k"}],[{"start":2,"end":13,"cssClass":"pl-k"},{"start":28,"end":38,"cssClass":"pl-k"}],[{"start":2,"end":13,"cssClass":"pl-k"},{"start":31,"end":41,"cssClass":"pl-k"}],[]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":null,"configFilePath":null,"networkDependabotPath":"/azbennett/Crowdfunding_ETL/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/azbennett/Crowdfunding_ETL/security/dependabot","repoSecurityAndAnalysisPath":"/azbennett/Crowdfunding_ETL/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"crowdfunding_db_schema.sql","displayUrl":"https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql?raw=true","headerInfo":{"blobSize":"853 Bytes","deleteInfo":{"deletePath":"https://github.com/azbennett/Crowdfunding_ETL/delete/Steve_v2/crowdfunding_db_schema.sql","deleteTooltip":"Delete this file"},"editInfo":{"editTooltip":"Edit this file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"56f8635","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fazbennett%2FCrowdfunding_ETL%2Fblob%2FSteve_v2%2Fcrowdfunding_db_schema.sql","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"36","truncatedSloc":"33"},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"SQL","large":false,"loggedIn":true,"newDiscussionPath":"/azbennett/Crowdfunding_ETL/discussions/new","newIssuePath":"/azbennett/Crowdfunding_ETL/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/azbennett/Crowdfunding_ETL/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"azbennett","repoName":"Crowdfunding_ETL","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":null,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"csrf_tokens":{"/azbennett/Crowdfunding_ETL/branches":{"post":"gAaEq0rn79Fr6Bv2GUksm2fRekOG3XBM5XlAeRXZUUjGH39hadM-hxJcKOXNXM45YWmIoe4SoGALHy8aFrop7A"}}},"title":"Crowdfunding_ETL/crowdfunding_db_schema.sql at Steve_v2 · azbennett/Crowdfunding_ETL","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c9b8ff248bc9.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":false,"copilot_conversational_ux":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"Resources","path":"Resources","contentType":"directory"},{"name":"output_data","path":"output_data","contentType":"directory"},{"name":"ETL_Mini_Project_SBennett_COsieczonek_MGodlove_GFrancione.ipynb","path":"ETL_Mini_Project_SBennett_COsieczonek_MGodlove_GFrancione.ipynb","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"crowdfunding_db_schema.sql","path":"crowdfunding_db_schema.sql","contentType":"file"}],"totalCount":5}},"fileTreeProcessingTime":2.939761,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":656473377,"defaultBranch":"main","name":"Crowdfunding_ETL","ownerLogin":"azbennett","currentUserCanPush":true,"isFork":false,"isEmpty":false,"createdAt":"2023-06-20T20:05:54.000-07:00","ownerAvatar":"https://avatars.githubusercontent.com/u/128557327?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"Steve_v2","listCacheKey":"v0:1687831649.938643","canEdit":true,"refType":"branch","currentOid":"e43e1a6883eefd67ec21f84160a30e5f0e5a230a"},"path":"crowdfunding_db_schema.sql","currentUser":{"id":126929265,"login":"CJO100293","userEmail":"codyjamesosieczonek@outlook.com"},"blob":{"rawBlob":"DROP TABLE Contacts;\n\nCREATE TABLE Contacts (\n  contact_id INT PRIMARY KEY,\n  first_name VARCHAR(50),\n  last_name VARCHAR(50),\n  email VARCHAR(255)\n);\n\nCOPY Contacts FROM 'C:\\Users\\sbenn\\Desktop\\ASU\\Classwork\\git\\Crowdfunding_ETL\\output_data\\contacts.csv' DELIMITER ',' CSV HEADER;\n--good\nSELECT * FROM Contacts;\n\n--------------------------------------------------------------------------------------------------------------------\n--------------------------------------------------------------------------------------------------------------------\nDROP TABLE Category;\n\nCREATE TABLE Category (\n  category_id VARCHAR(10) PRIMARY KEY,\n  category VARCHAR(25)\n);\n\nCOPY Category FROM 'C:\\Users\\sbenn\\Desktop\\ASU\\Classwork\\git\\Crowdfunding_ETL\\output_data\\category.csv' DELIMITER ',' CSV HEADER;\n--good\nSELECT * FROM Category;\n\n--------------------------------------------------------------------------------------------------------------------\n--------------------------------------------------------------------------------------------------------------------\nDROP TABLE Subcategory;\n\nCREATE TABLE Subcategory (\n  subcategory_id VARCHAR(10) PRIMARY KEY,\n  sub_category VARCHAR(25)\n);\n\nCOPY Subcategory FROM 'C:\\Users\\sbenn\\Desktop\\ASU\\Classwork\\git\\Crowdfunding_ETL\\output_data\\subcategory.csv' DELIMITER ',' CSV HEADER;\n--good\nSELECT * FROM Subcategory;\n--------------------------------------------------------------------------------------------------------------------\n--------------------------------------------------------------------------------------------------------------------\nDROP TABLE Campaign;\n\nCREATE TABLE Campaign (\n  cf_id INT PRIMARY KEY,\n  contact_id INT,\n  company_name VARCHAR(50),\n  description VARCHAR(255),\n  goal FLOAT,\n  pledged FLOAT,\n  outcome VARCHAR(50),\n  backers_count INT,\n  country VARCHAR(5),\n  currency VARCHAR(5),\n  launched_date DATE,\n  end_date DATE,\n  category_id VARCHAR(10),\n  subcategory_id VARCHAR(10),\n  FOREIGN KEY (contact_id) REFERENCES Contacts(contact_id),\n  FOREIGN KEY (category_id) REFERENCES Category(category_id),\n  FOREIGN KEY (subcategory_id) REFERENCES Subcategory(subcategory_id)\n);\n\nCOPY Campaign FROM 'C:\\Users\\sbenn\\Desktop\\ASU\\Classwork\\git\\Crowdfunding_ETL\\output_data\\campaign.csv' DELIMITER ',' CSV HEADER;\n--good\nSELECT * FROM Campaign;","colorizedLines":null,"stylingDirectives":[[{"start":0,"end":4,"cssClass":"pl-k"},{"start":5,"end":10,"cssClass":"pl-k"}],[],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":12,"cssClass":"pl-k"},{"start":13,"end":21,"cssClass":"pl-en"}],[{"start":13,"end":16,"cssClass":"pl-k"},{"start":17,"end":28,"cssClass":"pl-k"}],[{"start":13,"end":20,"cssClass":"pl-k"},{"start":21,"end":23,"cssClass":"pl-c1"}],[{"start":12,"end":19,"cssClass":"pl-k"},{"start":20,"end":22,"cssClass":"pl-c1"}],[{"start":8,"end":15,"cssClass":"pl-k"},{"start":16,"end":19,"cssClass":"pl-c1"}],[],[],[{"start":14,"end":18,"cssClass":"pl-k"},{"start":19,"end":103,"cssClass":"pl-s"},{"start":19,"end":20,"cssClass":"pl-pds"},{"start":22,"end":24,"cssClass":"pl-cce"},{"start":28,"end":30,"cssClass":"pl-cce"},{"start":34,"end":36,"cssClass":"pl-cce"},{"start":42,"end":44,"cssClass":"pl-cce"},{"start":46,"end":48,"cssClass":"pl-cce"},{"start":56,"end":58,"cssClass":"pl-cce"},{"start":60,"end":62,"cssClass":"pl-cce"},{"start":77,"end":79,"cssClass":"pl-cce"},{"start":89,"end":91,"cssClass":"pl-cce"},{"start":102,"end":103,"cssClass":"pl-pds"},{"start":114,"end":117,"cssClass":"pl-s"},{"start":114,"end":115,"cssClass":"pl-pds"},{"start":116,"end":117,"cssClass":"pl-pds"}],[{"start":0,"end":6,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":8,"cssClass":"pl-k"},{"start":9,"end":13,"cssClass":"pl-k"}],[],[{"start":0,"end":116,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":116,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":4,"cssClass":"pl-k"},{"start":5,"end":10,"cssClass":"pl-k"}],[],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":12,"cssClass":"pl-k"},{"start":13,"end":21,"cssClass":"pl-en"}],[{"start":14,"end":21,"cssClass":"pl-k"},{"start":22,"end":24,"cssClass":"pl-c1"},{"start":26,"end":37,"cssClass":"pl-k"}],[{"start":11,"end":18,"cssClass":"pl-k"},{"start":19,"end":21,"cssClass":"pl-c1"}],[],[],[{"start":14,"end":18,"cssClass":"pl-k"},{"start":19,"end":103,"cssClass":"pl-s"},{"start":19,"end":20,"cssClass":"pl-pds"},{"start":22,"end":24,"cssClass":"pl-cce"},{"start":28,"end":30,"cssClass":"pl-cce"},{"start":34,"end":36,"cssClass":"pl-cce"},{"start":42,"end":44,"cssClass":"pl-cce"},{"start":46,"end":48,"cssClass":"pl-cce"},{"start":56,"end":58,"cssClass":"pl-cce"},{"start":60,"end":62,"cssClass":"pl-cce"},{"start":77,"end":79,"cssClass":"pl-cce"},{"start":89,"end":91,"cssClass":"pl-cce"},{"start":102,"end":103,"cssClass":"pl-pds"},{"start":114,"end":117,"cssClass":"pl-s"},{"start":114,"end":115,"cssClass":"pl-pds"},{"start":116,"end":117,"cssClass":"pl-pds"}],[{"start":0,"end":6,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":8,"cssClass":"pl-k"},{"start":9,"end":13,"cssClass":"pl-k"}],[],[{"start":0,"end":116,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":116,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":4,"cssClass":"pl-k"},{"start":5,"end":10,"cssClass":"pl-k"}],[],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":12,"cssClass":"pl-k"},{"start":13,"end":24,"cssClass":"pl-en"}],[{"start":17,"end":24,"cssClass":"pl-k"},{"start":25,"end":27,"cssClass":"pl-c1"},{"start":29,"end":40,"cssClass":"pl-k"}],[{"start":15,"end":22,"cssClass":"pl-k"},{"start":23,"end":25,"cssClass":"pl-c1"}],[],[],[{"start":17,"end":21,"cssClass":"pl-k"},{"start":22,"end":109,"cssClass":"pl-s"},{"start":22,"end":23,"cssClass":"pl-pds"},{"start":25,"end":27,"cssClass":"pl-cce"},{"start":31,"end":33,"cssClass":"pl-cce"},{"start":37,"end":39,"cssClass":"pl-cce"},{"start":45,"end":47,"cssClass":"pl-cce"},{"start":49,"end":51,"cssClass":"pl-cce"},{"start":59,"end":61,"cssClass":"pl-cce"},{"start":63,"end":65,"cssClass":"pl-cce"},{"start":80,"end":82,"cssClass":"pl-cce"},{"start":92,"end":94,"cssClass":"pl-cce"},{"start":108,"end":109,"cssClass":"pl-pds"},{"start":120,"end":123,"cssClass":"pl-s"},{"start":120,"end":121,"cssClass":"pl-pds"},{"start":122,"end":123,"cssClass":"pl-pds"}],[{"start":0,"end":6,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":8,"cssClass":"pl-k"},{"start":9,"end":13,"cssClass":"pl-k"}],[{"start":0,"end":116,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":116,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":4,"cssClass":"pl-k"},{"start":5,"end":10,"cssClass":"pl-k"}],[],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":12,"cssClass":"pl-k"},{"start":13,"end":21,"cssClass":"pl-en"}],[{"start":8,"end":11,"cssClass":"pl-k"},{"start":12,"end":23,"cssClass":"pl-k"}],[{"start":13,"end":16,"cssClass":"pl-k"}],[{"start":15,"end":22,"cssClass":"pl-k"},{"start":23,"end":25,"cssClass":"pl-c1"}],[{"start":14,"end":21,"cssClass":"pl-k"},{"start":22,"end":25,"cssClass":"pl-c1"}],[],[],[{"start":10,"end":17,"cssClass":"pl-k"},{"start":18,"end":20,"cssClass":"pl-c1"}],[{"start":16,"end":19,"cssClass":"pl-k"}],[{"start":10,"end":17,"cssClass":"pl-k"},{"start":18,"end":19,"cssClass":"pl-c1"}],[{"start":11,"end":18,"cssClass":"pl-k"},{"start":19,"end":20,"cssClass":"pl-c1"}],[{"start":16,"end":20,"cssClass":"pl-k"}],[{"start":11,"end":15,"cssClass":"pl-k"}],[{"start":14,"end":21,"cssClass":"pl-k"},{"start":22,"end":24,"cssClass":"pl-c1"}],[{"start":17,"end":24,"cssClass":"pl-k"},{"start":25,"end":27,"cssClass":"pl-c1"}],[{"start":2,"end":13,"cssClass":"pl-k"},{"start":27,"end":37,"cssClass":"pl-k"}],[{"start":2,"end":13,"cssClass":"pl-k"},{"start":28,"end":38,"cssClass":"pl-k"}],[{"start":2,"end":13,"cssClass":"pl-k"},{"start":31,"end":41,"cssClass":"pl-k"}],[],[],[{"start":14,"end":18,"cssClass":"pl-k"},{"start":19,"end":103,"cssClass":"pl-s"},{"start":19,"end":20,"cssClass":"pl-pds"},{"start":22,"end":24,"cssClass":"pl-cce"},{"start":28,"end":30,"cssClass":"pl-cce"},{"start":34,"end":36,"cssClass":"pl-cce"},{"start":42,"end":44,"cssClass":"pl-cce"},{"start":46,"end":48,"cssClass":"pl-cce"},{"start":56,"end":58,"cssClass":"pl-cce"},{"start":60,"end":62,"cssClass":"pl-cce"},{"start":77,"end":79,"cssClass":"pl-cce"},{"start":89,"end":91,"cssClass":"pl-cce"},{"start":102,"end":103,"cssClass":"pl-pds"},{"start":114,"end":117,"cssClass":"pl-s"},{"start":114,"end":115,"cssClass":"pl-pds"},{"start":116,"end":117,"cssClass":"pl-pds"}],[{"start":0,"end":6,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":8,"cssClass":"pl-k"},{"start":9,"end":13,"cssClass":"pl-k"}]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":null,"configFilePath":null,"networkDependabotPath":"/azbennett/Crowdfunding_ETL/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/azbennett/Crowdfunding_ETL/security/dependabot","repoSecurityAndAnalysisPath":"/azbennett/Crowdfunding_ETL/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"crowdfunding_db_schema.sql","displayUrl":"https://github.com/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql?raw=true","headerInfo":{"blobSize":"2.25 KB","deleteInfo":{"deletePath":"https://github.com/azbennett/Crowdfunding_ETL/delete/Steve_v2/crowdfunding_db_schema.sql","deleteTooltip":"Delete this file"},"editInfo":{"editTooltip":"Edit this file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"7357905","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fazbennett%2FCrowdfunding_ETL%2Fblob%2FSteve_v2%2Fcrowdfunding_db_schema.sql","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"65","truncatedSloc":"55"},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"SQL","large":false,"loggedIn":true,"newDiscussionPath":"/azbennett/Crowdfunding_ETL/discussions/new","newIssuePath":"/azbennett/Crowdfunding_ETL/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/azbennett/Crowdfunding_ETL/blob/Steve_v2/crowdfunding_db_schema.sql","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/azbennett/Crowdfunding_ETL/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"azbennett","repoName":"Crowdfunding_ETL","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":null,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"csrf_tokens":{"/azbennett/Crowdfunding_ETL/branches":{"post":"Js9FLpGWJhvFNd_KKKC13DnrdIM5vkkjsM2V459h3nRg1r7ksqL3TbyB7Nn8tVd-P1OGYVFxmQ9eq_qAnAKm0A"}}},"title":"Crowdfunding_ETL/crowdfunding_db_schema.sql at Steve_v2 · azbennett/Crowdfunding_ETL","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c9b8ff248bc9.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":false,"copilot_conversational_ux":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
