@@ -30,7 +30,7 @@ DROP TABLE Subcategory;
 
 CREATE TABLE Subcategory (
   subcategory_id VARCHAR(10) PRIMARY KEY,
-  sub_category VARCHAR(25)
+  subcategory VARCHAR(25)
 );
 
 COPY Subcategory FROM 'C:\Users\sbenn\Desktop\ASU\Classwork\git\Crowdfunding_ETL\output_data\subcategory.csv' DELIMITER ',' CSV HEADER;
